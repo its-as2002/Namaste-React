@@ -1,0 +1,17 @@
+# Parcel
+- Dev build
+- create local host server
+- HMR - Hot module Replacement
+- File Watching Algorithm - written in C++
+- Caching - Faster build
+- Image Optimization 
+- Minification and Bundling during the production build
+- Compressing  
+- differential bundling - support older browsers( different bundle for different browser)
+- Consistent hashing
+- Code Splitting 
+- Diagnotic behind app
+- good error handling
+- parcel gives ability to host on https
+- tree Shaking - remove unused code
+- different dev and production bundles

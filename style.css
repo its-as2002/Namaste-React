@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
+}
+html,body {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+h1 {
+	font-size: 2.5rem;
+	font-weight: 600;
+	color: #cb1b1b;
+}
